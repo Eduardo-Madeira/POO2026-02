@@ -1,3 +1,6 @@
+![GitHub License](https://img.shields.io/github/license/Eduardo-Madeira/POO2026-02)
+
+
 # Programação Orientada a Objetos
 
 > Neste repositório estão todos os exercícios e laboratórios desenvolvidos na disciplina de Programação Orientada a Objeto do curso CST em Análise e Desenvolvimento de Sistemas do IFSC, campus São José
