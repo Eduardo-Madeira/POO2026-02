@@ -7,6 +7,8 @@
 
 ## Aulas
 
-- [Aula do dia 22/07, sobre Git, GitHub e Markdown](Aulas/22-07)
+- [Aula do dia 22/07, com tema principal: Git, GitHub e Markdown](Aulas/22-07)
+
+- [Aula do dia 28/07, com tema principal: Relembrar conceitos de Java de forma estrutural e organizacional](Aulas/28-07)
 
 ## Laboratórios
