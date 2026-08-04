@@ -11,4 +11,6 @@
 
 - [Aula do dia 28/07, com tema principal: Relembrar conceitos de Java de forma estrutural e organizacional](Aulas/28-07)
 
+- [Aula do dia 04/08, com tema principal: Conceito de Matriz e Vetor, a partir de exercicios feitos em sala](Aulas/04-08)
+
 ## Laboratórios
