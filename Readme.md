@@ -13,4 +13,8 @@
 
 - [Aula do dia 04/08, com tema principal: Conceito de Matriz e Vetor, a partir de exercicios feitos em sala](Aulas/04-08)
 
+- [Aula do dia 11/08, com tema principal: Conceitos de Gradle, utilização na IDE Intelij](Aulas/11-08)
+
 ## Laboratórios
+
+-[Labotatório 02 - Revisão da linguagem JAVA](Laboratórios/Lab-02)
