@@ -15,6 +15,8 @@
 
 - [Aula do dia 11/08, com tema principal: Conceitos de Gradle, utilização na IDE Intelij](Aulas/11-08)
 
+- [Aula do dia 18/08, com tema principal: Inicialização e conhecimentos basicos de Paradigma Orientada a Objeto](Aulas/18-08)
+
 ## Laboratórios
 
--[Labotatório 02 - Revisão da linguagem JAVA](Laboratórios/Lab-02)
+- [Labotatório 02 - Revisão da linguagem JAVA](Laboratórios/Lab-02)
