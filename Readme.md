@@ -17,6 +17,8 @@
 
 - [Aula do dia 18/08, com tema principal: Inicialização e conhecimentos basicos de Paradigma Orientada a Objeto](Aulas/18-08)
 
+- [Aula do dia 19/08, com tema principal: Colocar em prática o Paradgma Orientado a Objeto, através de exercicios para auxiliar na abstração e utilização dos códigos](Aulas/19-08)
+
 ## Laboratórios
 
 - [Labotatório 02 - Revisão da linguagem JAVA](Laboratórios/Lab-02)
