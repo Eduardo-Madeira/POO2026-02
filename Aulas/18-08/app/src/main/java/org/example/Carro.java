@@ -7,11 +7,14 @@ public class Carro {
 
     // Métodos
     public void acelerar(int velocidade){
-        veloAtual+= velocidade;
-        if (veloAtual > 100){
-            veloAtual = 100;
-        } else{
+        veloAtual = Math.min(veloAtual+velocidade, 100)
+    }
 
+    public void frear(int freagem){
+        if (veloAtual - freagem >= 0){
+            veloAtual -= freagem;
+        } else{
+            veloAtual = 0;
         }
 
     }
