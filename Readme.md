@@ -19,6 +19,8 @@
 
 - [Aula do dia 19/08, com tema principal: Colocar em prática o Paradgma Orientado a Objeto, através de exercicios para auxiliar na abstração e utilização dos códigos](Aulas/19-08)
 
+- [Aula do dia 25/08, com tema principal: Continuação sobre aprendizados sobre POO, onde tivemos aprendizados sobre métodos Gets e Sets, alem de exercicio para concatenar e utilizar métodos](Aulas/25-08)
+
 ## Laboratórios
 
 - [Labotatório 02 - Revisão da linguagem JAVA](Laboratórios/Lab-02)
